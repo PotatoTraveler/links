@@ -13,14 +13,15 @@ copyright = "Copyright German Rivera De La Torre"
   headline = "Photographer | Videographer | Software"
   image = "author.jpeg"
   links = [
-    { link = { href = "http://me.potatotraveler.com/", text = "Photography Website", icon = "camera-retro-solid" } },
-    { link = { href = "http://portfolio.gardlt.io/work/", text = "Portfolio", icon = "camera-retro-solid" } },
     { instagram = "https://instagram.com/potato.traveler/" },
-    { link = { href = "https://unsplash.com/@potato_traveler", text = "Unsplash", icon = "unsplash" } },
-    { link = { href = "https://pixabay.com/users/potato_traveler-14397780/", text = "Pixabay", icon = "unsplash" } },
-    { email = "mailto:potatotraveler@gmail.com" },
     { twitter = "https://twitter.com/traveler_potato" },
-    { link = { href = "http://blog.gardlt.io/", text = "Blog", icon = "blogger" } },
+    { unsplash = { href = "https://unsplash.com/@potato_traveler", text = "Unsplash" } },
+    { email = "mailto:potatotraveler@gmail.com" },
+    { link = { href = "http://me.potatotraveler.com/", text = "Photography Website", icon = "camera-retro-solid" } },
+    { link = { href = "http://portfolio.gardlt.io/work/", text = "Gallery", icon = "camera-retro-solid" } },
+    { link = { href = "https://pixabay.com/users/potato_traveler-14397780/", text = "Pixabay", icon = "pixabay" } },
+        
+
   ]
 
 [markup.highlight]

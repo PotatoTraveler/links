@@ -1,0 +1,8 @@
+.link-unsplash {
+    background: rgb(244, 243, 244);
+    color: black;
+    background: linear-gradient(
+      90deg,
+      rgb(254, 253, 255) 0%
+    );
+  }

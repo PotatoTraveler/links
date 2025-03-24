@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - main  # Set a branch to deploy from
+  pull_request:
+  workflow_dispatch:  # Allow manual triggering
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:

@@ -18,6 +18,7 @@ const links = [
 
 const equipment = [
   { name: "Sony Alpha 7 III", type: "Camera" },
+  { name: "Sony Alpha 7 V", type: "Camera" },
   { name: "Insta360 One R", type: "Action Cam" },
   { name: "Insta360 Go 2", type: "Action Cam" },
 ];
